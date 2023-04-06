@@ -1,0 +1,12 @@
+{
+  "name": "hola-script",
+  "version": "1.0.0",
+  "description": "Primer ejercicio de JS",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node saludar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Ariel Hernandez Resendiz",
+  "license": "ISC"
+}
